@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672572682 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod15_1302213015_se4501\tp_mod15_1302213015_se4501\main.cpp
+	"tree.h"
+
+1672565989 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod15_1302213015_se4501\tp_mod15_1302213015_se4501\tree.h
+	<iostream>
+
+1672566077 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod15_1302213015_se4501\tp_mod15_1302213015_se4501\tree.cpp
+	"tree.h"
+

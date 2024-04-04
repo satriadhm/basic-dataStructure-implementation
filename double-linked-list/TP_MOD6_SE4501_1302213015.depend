@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666955165 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod6_se4501_1302213015\tp_mod6_se4501_1302213015\dll.cpp
+	"dll.h"
+
+1666952781 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod6_se4501_1302213015\tp_mod6_se4501_1302213015\dll.h
+	<iostream>
+	<cctype>
+

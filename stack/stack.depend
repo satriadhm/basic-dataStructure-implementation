@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669469242 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\assessment1\stack\main.cpp
+	"stack.h"
+
+1669468492 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\assessment1\stack\stack.h
+	<iostream>
+
+1669469521 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\assessment1\stack\stack.cpp
+	"stack.h"
+

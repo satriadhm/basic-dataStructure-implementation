@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667639049 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod7_se4501_1302213015\datanasabah\main.cpp
+	"nasabah.h"
+
+1667641184 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod7_se4501_1302213015\datanasabah\nasabah.h
+	<iostream>
+	<cctype>
+	<bits/stdc++.h>
+
+1667644218 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod7_se4501_1302213015\datanasabah\nasabah.cpp
+	"nasabah.h"
+

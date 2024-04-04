@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1668273038 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod7_se4501_1302213015\listlagu\main.cpp
+	"CSLL.h"
+
+1668271858 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod7_se4501_1302213015\listlagu\csll.h
+	<iostream>
+
+1668273848 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod7_se4501_1302213015\listlagu\csll.cpp
+	"CSLL.h"
+
+1668274749 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp-mod8_1302213015_se4501\listlagu\main.cpp
+	"CSLL.h"
+
+1668271858 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp-mod8_1302213015_se4501\listlagu\csll.h
+	<iostream>
+
+1668274867 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp-mod8_1302213015_se4501\listlagu\csll.cpp
+	"CSLL.h"
+

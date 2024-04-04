@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1665212118 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod1_1302213015_se45-01\mod3_1302213015_se4501\main.cpp
+	"member.h"
+
+1665212139 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod1_1302213015_se45-01\mod3_1302213015_se4501\member.h
+	<iostream>
+
+1665212150 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod1_1302213015_se45-01\mod3_1302213015_se4501\member.cpp
+	"member.h"
+
+1665212118 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\mod3_1302213015_se4501\main.cpp
+	"member.h"
+
+1665212139 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\mod3_1302213015_se4501\member.h
+	<iostream>
+

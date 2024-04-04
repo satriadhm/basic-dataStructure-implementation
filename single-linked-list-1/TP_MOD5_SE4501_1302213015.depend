@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666422919 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod5_se4501_1302213015\main.cpp
+	"info.h"
+
+1666420194 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod5_se4501_1302213015\info.h
+	<iostream>
+	<cctype>
+
+1666422721 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod5_se4501_1302213015\info.cpp
+	"info.h"
+

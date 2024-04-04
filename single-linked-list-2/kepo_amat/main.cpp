@@ -1,0 +1,6 @@
+#include "kepo.h"
+
+int main
+{
+    return 0;
+}

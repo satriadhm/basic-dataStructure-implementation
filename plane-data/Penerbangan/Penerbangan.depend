@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670743405 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod12_se4501_1302213015\penerbangan\flight.cpp
+	"flight.h"
+
+1670733331 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod12_se4501_1302213015\penerbangan\flight.h
+	<iostream>
+
+1670743579 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tp_mod12_se4501_1302213015\penerbangan\main.cpp
+	"flight.h"
+

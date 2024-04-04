@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664625215 source:c:\users\glori\onedrive\desktop\things to do\study hard\c++ ex\tp_mod1_1302213015_se45-01\main.cpp
+	"hello.h"
+
+1664625287 c:\users\glori\onedrive\desktop\things to do\study hard\c++ ex\tp_mod1_1302213015_se45-01\hello.h
+	<iostream>
+	<cstdlib>
+
+1664625177 source:c:\users\glori\onedrive\desktop\things to do\study hard\c++ ex\tp_mod1_1302213015_se45-01\hello.cpp
+	"hello.h"
+

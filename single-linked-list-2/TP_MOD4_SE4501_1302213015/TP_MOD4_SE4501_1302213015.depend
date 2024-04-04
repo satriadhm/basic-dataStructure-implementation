@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665912190 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\mod4_1302213015_se4501\tp_mod4_se4501_1302213015\sll.cpp
+	"SLL.h"
+
+1665930965 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\mod4_1302213015_se4501\tp_mod4_se4501_1302213015\sll.h
+	<iostream>
+
+1665930962 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\mod4_1302213015_se4501\tp_mod4_se4501_1302213015\main.cpp
+	"SLL.h"
+
